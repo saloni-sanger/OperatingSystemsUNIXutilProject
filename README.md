@@ -1,4 +1,4 @@
-# Operating Systems Project 1: UNIX utilities
+# Operating Systems Project: UNIX utilities
 
 ### Background
 In this project I built for utilities: wcat, wgrep, wzip, and wunzip.
